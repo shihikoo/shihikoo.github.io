@@ -1,2 +1,3 @@
-# virginiapcs.github.io
-Virginia Peninsula Chinese School website 
+# shihikoo.github.io
+shihiko's website!
+Find something if you can.
